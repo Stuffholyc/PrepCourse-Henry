@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Es un repositorio de prueba de SoHenry
+Es un repositorio del Modulo2 del prep Course de SoHenry
